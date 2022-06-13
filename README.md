@@ -1,1 +1,3 @@
-# .github
+# MangoBoat
+
+Taki fajny bot o
